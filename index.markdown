@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: ""
 ---
 
-## Hi, 
+## Hi,
 
 I'm Tim Petri. I live in NYC and work as a software engineer at Google. See more on the <a href="/about">About</a> page.
 
