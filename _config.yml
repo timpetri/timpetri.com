@@ -24,6 +24,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - about.markdown
+
 minima:
   social_links:
     twitter: timpetri
