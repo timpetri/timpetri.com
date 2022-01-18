@@ -5,5 +5,7 @@
 layout: page
 ---
 
+## Hi, 
+
 I'm Tim Petri. I live in NYC and work as a software engineer at Google. See more on the <a href="/about">About</a> page.
 
