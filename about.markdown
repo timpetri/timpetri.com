@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Tim Petri. I live in NYC and work as a software engineer at Google.  
 
-I studied computer science at Worcester Polytechnic Institute. While at shcool, I interned at Carbon Black (later acquired by VMWare) and Microsoft. 
+I studied computer science at Worcester Polytechnic Institute. While at school, I interned at Carbon Black (later acquired by VMWare) and Microsoft. 
 
 At the moment, I'm working on bringing the best of Google's visual understanding [to the web](https://9to5google.com/2022/01/14/how-to-search-any-image-on-chrome-desktop-using-google-lens/).
 
