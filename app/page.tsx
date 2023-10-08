@@ -14,7 +14,7 @@ const SOCIALS = [
   },
   {
     name: "Twitter",
-    url: "https://twitter.com/timmpetri",
+    url: "https://twitter.com/timpetri",
     icon: TwitterIcon,
   },
 ];
