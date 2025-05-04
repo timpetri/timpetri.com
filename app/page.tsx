@@ -26,11 +26,14 @@ export default function Home() {
       <div className="slide-in-content">
         <p className="">Hey, I&apos;m Tim Petri.</p>
         <p>
-          I&apos;m a founding engineer at{" "}
+          I&apos;m Head of Engineering at{" "}
           <a href="https://www.archlending.com/" target="_blank">
             Arch
           </a>
-          , a fintech startup based in New York.
+          , a fintech startup based in New York. We&apos;re <a href="https://www.useparallel.com/company/arch" target="_blank">
+            hiring
+          </a>.
+
         </p>
         <p>
           Before that, I spent a number of years at Google working on consumer
