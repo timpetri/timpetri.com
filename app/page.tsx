@@ -1,22 +1,16 @@
 import { GithubIcon, LinkedinIcon, TwitterIcon } from "lucide-react";
 import Link from "next/link";
 
-const SOCIALS = [
-  {
-    name: "GitHub",
-    url: "https://github.com/timpetri",
-    icon: GithubIcon,
-  },
-  {
-    name: "LinkedIn",
-    url: "https://www.linkedin.com/in/timpetri/",
-    icon: LinkedinIcon,
   },
   {
     name: "Twitter",
     url: "https://twitter.com/timpetri",
     icon: TwitterIcon,
   },
+const SOCIALS = [
+  {
+    name: "LinkedIn",
+    url: "https://www.linkedin.com/in/timpetri/",
 ];
 
 export default function Home() {
@@ -26,7 +20,7 @@ export default function Home() {
       <div className="slide-in-content">
         <p className="">Hey, I&apos;m Tim Petri.</p>
         <p>
-          I&apos;m Head of Engineering at{" "}
+          I&apos;m CTO at{" "}
           <a href="https://www.archlending.com/" target="_blank">
             Arch
           </a>
@@ -54,7 +48,6 @@ export default function Home() {
               target="_blank"
               className="px-2 no-underline hover:text-blue-500 flex flex-row hover:border-b-[1px]"
             >
-              <social.icon className="h-4 w-4 mr-2" />
               <span className="text-sm ">{social.name}</span>
             </Link>
           ))}
