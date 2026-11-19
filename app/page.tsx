@@ -1,16 +1,16 @@
 import { GithubIcon, LinkedinIcon, TwitterIcon } from "lucide-react";
 import Link from "next/link";
 
-  },
+const SOCIALS = [
   {
     name: "Twitter",
     url: "https://twitter.com/timpetri",
     icon: TwitterIcon,
   },
-const SOCIALS = [
   {
     name: "LinkedIn",
     url: "https://www.linkedin.com/in/timpetri/",
+  }
 ];
 
 export default function Home() {
